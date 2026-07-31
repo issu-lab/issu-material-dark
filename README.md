@@ -2,7 +2,6 @@
   <img src="assets/issu-material-dark-banner.png" alt="iSSU Material Dark" width="100%">
 </p>
 
-# iSSU Material Dark
 
 A flat dark theme for Mozilla Firefox, designed around graphite surfaces, soft contrast and a distraction-free interface.
 
