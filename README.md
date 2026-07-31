@@ -39,7 +39,7 @@ It uses a consistent dark palette across the tab bar, toolbar, menus, sidebar an
 
 The recommended installation method is the official Firefox Add-ons page:
 
-### [Install iSSU Material Dark](https://addons.mozilla.org/firefox/addon/issu-material-dark/)
+### [Install iSSU Material Dark](https://addons.mozilla.org/it/firefox/addon/issu-material-dark/)
 
 1. Open the link in Firefox.
 2. Select **Install Theme** or **Add to Firefox**.
